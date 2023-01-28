@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/h4roru4zure/landingpage_webdev/issues"
   },
-  "homepage": "https://github.com/h4roru4zure/landingpage_webdev#readme"
+  "homepage": "https://github.com/h4roru4zure/landingpage_webdev#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "type": "module"
 }
