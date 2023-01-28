@@ -105,3 +105,7 @@ dist
 
 # ignorar los modulos de node
 /node_modules/
+
+# ignorando paginas main3.js y index3.html
+/src/index3.html
+/src/assets/main3.js
